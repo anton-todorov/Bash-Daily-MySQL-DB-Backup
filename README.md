@@ -50,9 +50,9 @@ crontab -e
  
  ## Authors
 
-* **Anton Todorov** - *Initial work* - [LinkedIn](www.linkedin.com/in/anton-todorov89) || [GitHub](https://github.com/anton-todorov)
+* **Anton Todorov** - *Initial work* - [LinkedIn](www.linkedin.com/in/anton-todorov89) | [GitHub](https://github.com/anton-todorov)
 
-### Other
+### Others
 [Contributors](https://github.com/anton-todorov/Bash-Daily-MySQL-DB-Backup/graphs/contributors) who participated in this project.
 
 ## License
@@ -60,6 +60,4 @@ crontab -e
 This project is free of license, thus LICENSE.md is not present.
 
 ## Credits and acknowledgments
-***********************  Credits ***********************
-*** Original by Leaman Crews, <leamanc@gmail.com>    ***
-********************************************************
+Original by Leaman Crews, <leamanc@gmail.com>
