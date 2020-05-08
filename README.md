@@ -44,13 +44,12 @@ crontab -e
  * External resources for scheduling jobs with crontab on Mac OS X 
  [Ole Michelsen] (https://ole.michelsen.dk/blog/schedule-jobs-with-crontab-on-mac-osx.html)
  
-## Todo
+## To-Do List
 - Archiving of the directories, older than "Today"
 - E-mailing with daily log
 - Fix last year's latest backups
  
  ## Authors
-
 * **Anton Todorov** - *Initial work* - [LinkedIn](www.linkedin.com/in/anton-todorov89) | [GitHub](https://github.com/anton-todorov)
 
 ### Others
