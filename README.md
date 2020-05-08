@@ -1,5 +1,5 @@
-# Bash Daily MySQL DB Backup
-Shell script to backup mysql databases. 
+# Daily MySQL DB Backup script
+Bash script for daily  mysql databases backup. Keeps 3 weeks of backup.
 
 ### Prerequisites: 
 ```
@@ -47,6 +47,7 @@ crontab -e
 ## Todo
 - Archiving of the directories, older than "Today"
 - E-mailing with daily log
+- Fix last year's latest backups
  
  ## Authors
 
